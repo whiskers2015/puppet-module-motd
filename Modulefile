@@ -1,0 +1,10 @@
+name 'tina-motd'
+version '0.1.0'
+source 'git://github.com/Tina/puppet-module-motd.git'
+author 'Tina'
+license 'meow 1.0'
+summary 'put a summary here'
+description 'put a description here'
+project_page 'https://github.com/Tina/puppet-module-motd'
+
+dependency 'puppetlabs/stdlib', '>= 4.6.0'
